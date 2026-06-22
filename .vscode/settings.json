@@ -1,0 +1,13 @@
+{
+  "css.enabledLanguages": [
+    "html",
+    "javascriptreact",
+    "typescriptreact",
+    "vue",
+    "twig"
+  ],
+  "files.autoSave": "afterDelay",
+  "terminal.integrated.commandsToSkipShell": [
+    "github.copilot.nextEditSuggestions.enabled"
+  ]
+}
